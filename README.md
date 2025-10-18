@@ -16,7 +16,7 @@ Graph:
 Observation Table:
 ![WhatsApp Image 2025-10-18 at 20 45 01_aabbefc1](https://github.com/user-attachments/assets/88c51c27-bbdf-442d-91c3-365922403b8c)
 PROCEDURE: -
-I. Connect the multimeter at the output of kit..
+1. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
 3. More the gauge from zero to maximum of 20mm.
 4. Value and note the corresponding values of voltages in the multimeter.
